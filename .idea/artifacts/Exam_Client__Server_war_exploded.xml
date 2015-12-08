@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Exam_Client__Server:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Exam_Client__Server_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Exam_Client__Server/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Exam_Client__Server" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
